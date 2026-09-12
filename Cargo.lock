@@ -9228,8 +9228,8 @@ dependencies = [
  "thiserror 2.0.12",
  "url",
  "webkit2gtk",
- "webview2-com 0.38.0",
- "windows 0.61.1",
+ "webview2-com 0.39.1",
+ "windows 0.62.0",
 ]
 
 [[package]]
